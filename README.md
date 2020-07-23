@@ -4,6 +4,7 @@ This simple app allows you to get index health info from all schemas of specifie
 
 Based on [pg-index-health](https://github.com/mfvanek/pg-index-health) library and it's [demo](https://github.com/mfvanek/pg-index-health-demo) 
 
+More info about checks and how it works: [pg-index-health](https://github.com/mfvanek/pg-index-health)
 
 # Usage
 
