@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://192.168.13.31:5432/bim_activiti_dev
+    password: replica_user
+    username: replica_user
+logging:
+  level:
+    root: warn
+    io.github.stepanovnickolay: info
+    io.github.mfvanek: warn
