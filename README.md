@@ -1,5 +1,7 @@
 # PG index health wrapper
 
+https://github.com/StepanovNickolay/pg-index-health-wrapper/workflows/CI/badge.svg
+
 This simple app allows you to get index health info from all schemas of specified database.
 
 Based on [pg-index-health](https://github.com/mfvanek/pg-index-health) library and it's [demo](https://github.com/mfvanek/pg-index-health-demo) 
